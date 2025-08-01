@@ -35,5 +35,7 @@ async function main() {
     }
     await randomDelay();
     clearInterval(t);
+alert("you have been hacked!")
+
 }
 main();
